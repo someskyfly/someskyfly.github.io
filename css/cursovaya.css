@@ -1,0 +1,247 @@
+.CC, .project, .au, .login, .project2, .mycources, .mc2 {
+    font-size: 32px;
+    font-family: Inter;
+    font-weight: light;
+    background: none;
+    border: none;
+}
+
+.mc2 {
+    background: none;
+    border: none;
+    color: transparent;
+    margin-left: 150px;
+}
+
+.button1, .button10 {
+font-size: 32px;
+font-family: Inter;
+font-weight: light;
+width: 356px;
+height: 93px;
+border-radius: 20px;
+}
+
+.button10 {
+    margin-left: 448px;
+    margin-top: 300px;
+}
+
+.button1:hover, .button10:hover {
+    color: black;
+}
+
+.CC:hover, .project:hover, .login:hover, .project2:hover, .mycources:hover, .au:hover {
+    color: rgb(12, 162, 12);
+}
+
+body {
+    width: 1920px;
+    height: 1080px;
+}
+
+.au2, .itlogin {
+    font-size: 40px;
+    font-family: Inter;
+    font-weight: light;
+}
+
+.menu, .project1, .or {
+    font-size: 48px;
+    font-family: Inter;
+    font-weight: light;
+}
+
+.au1, .login1, .create, .button7, .button8 {
+    font-size: 64px;
+    font-family: Inter;
+    font-weight: light;
+}
+
+img {
+    height: 68px;
+    width: 71px;
+    border-radius: 30px;
+    margin-left: 78px;
+    margin-top: 20px;
+}
+
+.CC {
+    color: white;
+    margin-top: 35px;
+    margin-left: 24px;
+}
+
+.mycources {
+    color: white;
+    margin-left: 150px;
+}
+
+.au {
+    width: 83px;
+    height: 39px;
+    font-size: 32px;
+    color: white;
+    margin-left: 74px;
+}
+
+.project {
+    color: white;
+    margin-left: 74px;
+}
+
+.login {
+    color: white;
+    margin-left: 74px;
+}
+
+.box1, .box2, .box3, .box4, .box5, .box6, .box7, .box8, .box9 {
+    max-width: 720px;
+    max-width: 1280px;
+    padding: 0px;
+    border-color: aliceblue;
+    border: 20px;
+    
+}
+
+.box2, .box3, .box4, .box5, .box6, .box7, .box8, .box9 {
+    display: none;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+}
+
+.menu, .project1, .project2, .button1, .button10, .itlogin, .login1, .create, .or, .CC:active, .mycources:active, .login:active, .au:active, .project:active {
+    color: rgb(12, 162, 12);
+}
+
+.button7, .button8, .button9, .button6 {
+    background-color: rgb(12, 162, 12);
+    color: white;
+}
+
+.button7:hover, .button8:hover {
+    color: black;
+}
+
+.button7 {
+    margin-top: 156px;
+}
+
+.itlogin {
+    margin-top: 90px;
+}
+
+.menu {
+    margin-top: 303px;
+    margin-left: 16px;
+}
+
+.au1 {
+    margin-left: 516px;
+}
+
+.box10, .box11, .box12, .box13 {
+    background-color: white;
+
+}
+
+.button2, .button3, .button5, .button9, .button6, .button4 {
+    text-align: center;
+    margin-left: 312px;
+}
+
+.button2, .button3, .button5, .button6, .button9, .button4 {
+    width: 656px;
+    height: 53px;
+    margin-top: 32px;
+} 
+
+.create {
+    margin-left: 372px;
+}
+
+.create:hover, .button9:hover, .button6:hover {
+    color: black;
+}
+
+.project1, .project2 {
+    margin-left: 20px;
+    margin-top: 120px;
+}
+
+.project1, .allcources1, .allcources2 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.mycources1 {
+    margin-top: 302px;
+    font-size: 48px;
+    font-family: Inter;
+    font-weight: light;
+    margin-left: 516px;
+}
+
+.au1, .au2, .button4:hover {
+    color: rgb(12, 162, 12);
+}
+
+.button7, .button8 {
+    margin-left: 292px;
+}
+
+.or {
+    margin-left: 597px;
+}
+
+.loginn {
+    width: 77px;
+    height: 39px;
+    margin-left: 74px;
+    background-color: white;
+    color: transparent;
+}
+
+.login1 {
+    text-align: center;
+}
+
+.box10, .box11, .box12, .box13 {
+    font-size: 24px;
+    margin-top: 70px;
+}
+
+body {
+    width: 1920px;
+    height: 1080px;
+    background-image: url(https://plus.unsplash.com/premium_photo-1678565999332-1cde462f7b24?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-repeat: no-repeat;
+}
+
+section {
+    display: flex;
+}
+
+.allcources1, .allcources2, .mycources1, .allcources1:hover, .allcources2:hover, .mycources1:hover {
+    background: none;
+    border:none;
+    color: rgb(12, 162, 12);
+}
+
+.allcources1, .allcources2 {
+    margin-top: 100px;
+    font-size: 40px;
+    font-family: Inter;
+    font-weight: light;
+}
+
+.allcources1 {
+    margin-left: 610px;
+}
+
+.allcources2 {
+    margin-left: 370px;
+}
